@@ -1,0 +1,2 @@
+# fertility
+ This data set has 10 attributes. It includes semen samples of 100 volunteers, analyzed according to the WHO 2010 criteria . It can be used to determine if it's possible to reach a diagnosis without a laboratory approach, which includes expensive tests that are sometimes uncomfortable for the patients. Attributes presented in this data set can be taken easily using a questionnaire to estimate sperm concentration.
